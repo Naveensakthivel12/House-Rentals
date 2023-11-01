@@ -1,0 +1,25 @@
+/* Header.css */
+.navbar-custom {
+    background-color: #3498db; /* Change to the desired background color */
+  }
+  
+  .navbar-custom .navbar-brand {
+    color: #fff; /* Change text color for the brand name */
+  }
+  
+  .navbar-custom .navbar-brand:hover {
+    color: #fff; /* Change text color on hover */
+  }
+  
+  .navbar-custom .navbar-toggler-icon {
+    background-color: #fff; /* Change background color for the hamburger icon */
+  }
+  
+  .navbar-custom .nav-link {
+    color: #fff; /* Change text color for the links */
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #f39c12; /* Change text color on hover */
+  }
+  
